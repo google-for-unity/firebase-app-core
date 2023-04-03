@@ -1,17 +1,17 @@
 {
-    "name": "com.google.firebase.core",
-    "displayName": "Firebase Core",
-    "description": "Firebase App is the core library every Firebase package depends on",
-    "version": "10.6.0",
-    "unity": "2018.1",
-    "category": "google-for-unity",
-    "keywords": [
-        "Google",
-        "Firebase",
-        "FirebaseApp",
-        "App"
-    ],
-    "dependencies": {
-        "com.google.external-dependency-manager": "1.2.175"
-    }
+  "name": "com.google.firebase.core",
+  "displayName": "Firebase Core",
+  "description": "Firebase App is the core library every Firebase package depends on",
+  "version": "10.7.0",
+  "unity": "2018.1",
+  "category": "google-for-unity",
+  "keywords": [
+    "Google",
+    "Firebase",
+    "FirebaseApp",
+    "App"
+  ],
+  "dependencies": {
+    "com.google.external-dependency-manager": "1.2.175"
+  }
 }
